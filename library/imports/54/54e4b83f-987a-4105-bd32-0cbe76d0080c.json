@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chicken_Sprite_Sheet_08",
+    "texture": "44374b29-cbc2-4fde-bc0e-6f77b4d6504c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+2023-11-29T02:08:16.289Z - normal: Load ~/.CocosCreator/settings.json
+2023-11-29T02:08:16.338Z - normal: Initializing Asset Database
+2023-11-29T02:08:16.339Z - normal: checking language setting...
+2023-11-29T02:08:16.340Z - normal: Language: en
+2023-11-29T02:08:17.041Z - success: preview server running at http://localhost:7456
+2023-11-29T02:08:17.049Z - success: protocol editor-framework registered
+2023-11-29T02:08:17.049Z - success: protocol app registered
+2023-11-29T02:08:17.049Z - success: protocol theme registered
+2023-11-29T02:08:17.049Z - success: protocol packages registered
+2023-11-29T02:08:17.049Z - success: protocol uuid registerred
+2023-11-29T02:08:17.049Z - success: protocol db registerred
+2023-11-29T02:08:17.049Z - success: protocol thumbnail registerred
+2023-11-29T02:08:17.050Z - success: protocol unpack registerred
+2023-11-29T02:08:17.050Z - success: protocol disable-commonjs registerred
+2023-11-29T02:08:18.262Z - normal: connected!
+2023-11-29T02:08:18.263Z - normal: Check project /Users/user/Desktop/TranVanMinh-Chicken
+2023-11-29T02:08:18.268Z - normal: Initializing project /Users/user/Desktop/TranVanMinh-Chicken
+2023-11-29T02:08:18.606Z - normal: Initializing Cocos2d
+2023-11-29T02:08:19.241Z - normal: Initializing engine extends
+2023-11-29T02:08:19.268Z - success: alipay-adapter loaded
+2023-11-29T02:08:19.277Z - success: asset-db-debugger loaded
+2023-11-29T02:08:19.281Z - success: baidu-adapter loaded
+2023-11-29T02:08:19.287Z - success: color-picker loaded
+2023-11-29T02:08:19.436Z - success: fb-audience-network loaded
+2023-11-29T02:08:19.494Z - success: fb-live-stream loaded
+2023-11-29T02:08:19.498Z - success: google-play-instant loaded
+2023-11-29T02:08:19.505Z - success: huawei-runtime loaded
+2023-11-29T02:08:19.732Z - success: cpk-publish loaded
+2023-11-29T02:08:19.734Z - success: jsb-adapter loaded
+2023-11-29T02:08:19.740Z - success: oppo-runtime loaded
+2023-11-29T02:08:19.749Z - success: package-manager loaded
+2023-11-29T02:08:19.893Z - success: qqplay-adapter loaded
+2023-11-29T02:08:19.896Z - success: runtime-dev-tools loaded
+2023-11-29T02:08:19.902Z - success: sdkbox loaded
+2023-11-29T02:08:19.907Z - success: tester loaded
+2023-11-29T02:08:19.910Z - success: ui-kit-preview-extra loaded
+2023-11-29T02:08:19.914Z - success: ui-kit-preview loaded
+2023-11-29T02:08:19.916Z - success: ui-kit loaded
+2023-11-29T02:08:19.922Z - success: vivo-runtime loaded
+2023-11-29T02:08:19.924Z - success: weapp-adapter loaded
+2023-11-29T02:08:19.926Z - success: xiaomi-adapter loaded
+2023-11-29T02:08:19.929Z - success: alipay-minigame loaded
+2023-11-29T02:08:19.964Z - success: assets loaded
+2023-11-29T02:08:19.966Z - success: builder loaded
+2023-11-29T02:08:20.227Z - success: cocos-services loaded
+2023-11-29T02:08:20.232Z - success: console loaded
+2023-11-29T02:08:20.258Z - success: fb-instant-games loaded
+2023-11-29T02:08:20.261Z - success: game-window loaded
+2023-11-29T02:08:20.262Z - success: google-instant-games loaded
+2023-11-29T02:08:20.268Z - success: hierarchy loaded
+2023-11-29T02:08:20.272Z - success: inspector loaded
+2023-11-29T02:08:20.274Z - success: keystore loaded
+2023-11-29T02:08:20.280Z - success: node-library loaded
+2023-11-29T02:08:20.281Z - success: package-asset loaded
+2023-11-29T02:08:20.283Z - success: preferences loaded
+2023-11-29T02:08:20.286Z - success: project-exporter loaded
+2023-11-29T02:08:20.291Z - success: project-importer loaded
+2023-11-29T02:08:20.295Z - success: project-settings loaded
+2023-11-29T02:08:20.299Z - success: scene loaded
+2023-11-29T02:08:20.300Z - success: simulator-debugger loaded
+2023-11-29T02:08:20.301Z - success: sprite-editor loaded
+2023-11-29T02:08:20.305Z - success: store loaded
+2023-11-29T02:08:20.311Z - success: timeline loaded
+2023-11-29T02:08:20.315Z - success: xiaomi-runtime loaded
+2023-11-29T02:08:23.141Z - info: Cocos Services load base data!
+2023-11-29T02:08:23.886Z - normal: Loading packages
+2023-11-29T02:08:23.892Z - normal: Watching packages
+2023-11-29T02:08:23.967Z - normal: Run Application
+2023-11-29T04:23:02.823Z - error: unknown color: 6868
+    at window.onerror (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/lib/windows/static/script/launch.js:365:24)
+    at Object.e.fire (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dom-utils.js:1:1797)
+    at HTMLElement._onInputConfirm (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/elements/input.js:1:2822)
+    at HTMLInputElement.n.addEventListener.t (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/behaviors/input-state.js:1:1135)
+2023-11-29T04:33:32.189Z - error: Error: [AssetLibrary] loading JSON or dependencies failed: undefined
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:49:33)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:25.592Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:26.385Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:27.730Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:28.403Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:28.754Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:28.920Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:29.152Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:29.751Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:29.986Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:30.469Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:30.702Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:30.902Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:31.041Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:31.202Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:31.452Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:31.602Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.recordCreateNode (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/undo/index.js:1:6593)
+    at t.createNodeFromAsset (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/utils/scene.js:1:844)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/engine-extends/asset-extends/texture.js:1:634
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:65:25)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:34:57.555Z - error: Error: [AssetLibrary] loading JSON or dependencies failed: undefined
+    at CCLoader.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCAssetLibrary.js:49:33)
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/load-pipeline/CCLoader.js:141:46
+    at /Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/utils.js:49:25
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2023-11-29T04:41:49.940Z - warn: The AnimationClip used by component "cc.Animation" is missing. Detailed information:
+Node path: "Controller/Light Traffic/green"
+Missing uuid: "e2f78e33-55da-483f-81b1-c046c8a82eb9"
+
+2023-11-29T04:42:22.833Z - warn: The AnimationClip used by component "cc.Animation" is missing. Detailed information:
+Node path: "Controller/Light Traffic/green"
+Missing uuid: "e2f78e33-55da-483f-81b1-c046c8a82eb9"
+
+2023-11-29T05:48:19.105Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T05:53:17.655Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T05:56:44.715Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T05:57:28.911Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T05:58:08.730Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T05:58:17.831Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:02:13.781Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:02:16.747Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:03:18.918Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:04:13.394Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:04:51.965Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:06:07.688Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:06:33.778Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:06:34.294Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:11:09.869Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:20:36.258Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T06:32:40.390Z - warn: Script attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Controller/Main Camera"
+Script UUID: "f2524466-862e-4fc4-8416-e6b25d9c1294"
+Class ID: "f2524Rmhi5PxIQW5rJdnBKU"
+
+2023-11-29T07:12:31.984Z - failed: [db-task][sync-changes] Failed to import asset /Users/user/Desktop/TranVanMinh-Chicken/assets/Script/Controller.js, message: Compile error: SyntaxError: /Users/user/Desktop/TranVanMinh-Chicken/assets/Script/Controller.js: Unexpected token (24:12)
+  22 |                 this.unschedule(this.lightActive);
+  23 |                 this.car.getComponent("Car").speed = 
+> 24 |             } else {
+     |             ^
+  25 |                 this.lights[this.lightIndex].getComponent("Light").startLight();
+  26 |                 this.lightIndex++;
+  27 |             }
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3367:23)
+    at Parser.pp$3.parseExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3306:19)
+2023-11-29T07:14:24.166Z - failed: [db-task][sync-changes] Failed to import asset /Users/user/Desktop/TranVanMinh-Chicken/assets/Script/Controller.js, message: Compile error: SyntaxError: /Users/user/Desktop/TranVanMinh-Chicken/assets/Script/Controller.js: Unexpected token (25:12)
+  23 |                 this.car.getComponent("Car").speed = 330;
+  24 |                 this.chicken.getComponent("Chicken").speed = 
+> 25 |             } else {
+     |             ^
+  26 |                 this.lights[this.lightIndex].getComponent("Light").startLight();
+  27 |                 this.lightIndex++;
+  28 |             }
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3367:23)
+    at Parser.pp$3.parseExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3306:19)
+2023-11-29T07:55:24.180Z - failed: [db-task][sync-changes] Failed to import asset /Users/user/Desktop/TranVanMinh-Chicken/assets/Script/Chicken.js, message: Compile error: SyntaxError: /Users/user/Desktop/TranVanMinh-Chicken/assets/Script/Chicken.js: Unexpected token, expected , (7:13)
+   5 |         chicken: cc.Sprite,
+   6 |         ani: cc.
+>  7 |         count: -1
+     |              ^
+   8 |     },
+   9 |     update(dt) {
+  10 |         if (this.count > -1 && this.count < 108) {
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$3.parseObj (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+2023-11-29T09:33:51.639Z - failed: [db-task][sync-changes] Failed to import asset /Users/user/Desktop/TranVanMinh-Chicken/assets/Script/Light.js, message: Compile error: SyntaxError: /Users/user/Desktop/TranVanMinh-Chicken/assets/Script/Light.js: Unexpected token, expected , (12:8)
+  10 |         _time: 0,
+  11 |         _
+> 12 |         timer: 0
+     |         ^
+  13 |     },
+  14 | 
+  15 |     start () {
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$3.parseObj (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+2023-11-29T09:47:43.601Z - failed: [db-task][sync-changes] Failed to import asset /Users/user/Desktop/TranVanMinh-Chicken/assets/Script/Light.js, message: Compile error: SyntaxError: /Users/user/Desktop/TranVanMinh-Chicken/assets/Script/Light.js: Unexpected token, expected { (53:0)
+  51 | 
+  52 |     flashLight()
+> 53 | });
+     | ^
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$1.parseBlock (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:2246:8)
+    at Parser.pp$3.parseFunctionBody (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4235:22)
+    at Parser.pp$3.parseMethod (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4180:8)
+    at Parser.pp$3.parseObjectMethod (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4097:10)
+    at Parser.pp$3.parseObjPropValue (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4140:19)
+    at Parser.pp$3.parseObj (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4048:10)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3719:19)
